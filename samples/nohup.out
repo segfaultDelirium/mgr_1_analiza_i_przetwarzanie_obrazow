@@ -1,0 +1,18 @@
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+kf.kio.workers.file: copy() QUrl("file:///0warm_data/magazyny/8magazyn/ap_090911089838_wide-58102eebb732a70864dc08c1ff9321af5051b9f4.jpg") to QUrl("file:///0warm_data/studia/mgr/1semestr/analiza_i_przetwarzanie_obrazow/code/ap_090911089838_wide-58102eebb732a70864dc08c1ff9321af5051b9f4.jpg") mode= 511
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///0warm_data/magazyny/8magazyn/chosen_death.png") to QUrl("file:///0warm_data/studia/mgr/1semestr/analiza_i_przetwarzanie_obrazow/code/chosen_death.png") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.PartitionTable”" for "/org/freedesktop/UDisks2/block_devices/sdc"
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.UnknownMethod" "Object does not exist at path “/org/freedesktop/UDisks2/block_devices/sdc”" for "/org/freedesktop/UDisks2/block_devices/sdc"
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.UnknownMethod" "Object does not exist at path “/org/freedesktop/UDisks2/block_devices/sdc”" for "/org/freedesktop/UDisks2/block_devices/sdc"
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+kf.kio.workers.file: copy() QUrl("file:///0warm_data/magazyny/1magazyn/audia4 ai.mp4") to QUrl("file:///0warm_data/studia/mgr/1semestr/analiza_i_przetwarzanie_obrazow/code/audia4 ai.mp4") mode= 511
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///0warm_data/magazyny/1magazyn/korwin bingo 2.jpg") to QUrl("file:///0warm_data/studia/mgr/1semestr/analiza_i_przetwarzanie_obrazow/code/korwin bingo 2.jpg") mode= 511
+kf.kio.workers.file: the file doesn't have any xattr
+kf.kio.workers.file: copy() QUrl("file:///0warm_data/magazyny/1magazyn/skate or gulag.png") to QUrl("file:///0warm_data/studia/mgr/1semestr/analiza_i_przetwarzanie_obrazow/code/skate or gulag.png") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr

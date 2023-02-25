@@ -1,0 +1,132 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+
+(process:7630): Gtk-WARNING **: 14:59:38.240: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(java:7630): dbind-WARNING **: 14:59:38.290: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+2023-02-24 14:59:40,701 [   2923]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 14:59:40,708 [   2930]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 14:59:40,709 [   2931]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 14:59:40,709 [   2931]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 14:59:40,752 [   2974]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/vcs-github, version=223.8617.48, package=org.jetbrains.plugins.github, isBundled=true)
+2023-02-24 14:59:40,760 [   2982]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/space, version=223.8617.48, package=com.intellij.space.vcs, isBundled=true)
+2023-02-24 14:59:40,762 [   2984]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/python-ce, version=223.8617.48, package=null, isBundled=true)
+2023-02-24 14:59:40,762 [   2984]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/python-ce, version=223.8617.48, package=null, isBundled=true)
+2023-02-24 14:59:40,972 [   3194]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 15:00:18,689 [  40911]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 13:DefaultDispatcher-worker-2 | RdCoroutineHost overridden 
+2023-02-24 15:00:19,852 [  42074]   WARN - #c.i.o.a.i.ActionUpdater - 519 ms to grab EDT for CWMTelephonyGroup#update@MainToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-02-24 15:00:19,852 [  42074]   WARN - #c.i.o.a.i.ActionUpdater - 370 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2023-02-24 15:01:15,367 [  97589]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-02-24 15:01:15,371 [  97593]   WARN - #c.j.p.s.s.PySkeletonRefresher - mailutils.c_api
+2023-02-24 15:01:16,473 [  98695]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-02-24 15:01:16,473 [  98695]   WARN - #c.j.p.s.s.PySkeletonRefresher - mailutils.c_api
+2023-02-24 15:01:21,735 [ 103957]   WARN - #c.i.o.a.i.ActionUpdater - 329 ms to grab EDT for EditorMarkupModelImpl$TrafficLightAction#update@EditorInspectionsToolbar (com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction)
+2023-02-24 15:01:26,437 [ 108659]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.openapi.projectRoots.Sdk
+2023-02-24 15:01:38,594 [ 120816]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - cv2.cv2
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - cv2.qt.plugins.platforms.libqxcb
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.argmap
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.checkpattern
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.constraints
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.expandtype
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.infer
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.maptype
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.plugins.dataclasses
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.report
+2023-02-24 15:01:38,595 [ 120817]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.server.astdiff
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.solve
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.stats
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.subtypes
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.suggestions
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.type_visitor
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.typetraverser
+2023-02-24 15:01:38,596 [ 120818]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypyc.irbuild.ll_builder
+2023-02-24 15:01:40,026 [ 122248]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - cv2.cv2
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - cv2.qt.plugins.platforms.libqxcb
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.argmap
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.checkpattern
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.constraints
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.expandtype
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.infer
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.maptype
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.plugins.dataclasses
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.report
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.server.astdiff
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.solve
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.stats
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.subtypes
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.suggestions
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.type_visitor
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.typetraverser
+2023-02-24 15:01:40,027 [ 122249]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypyc.irbuild.ll_builder
+2023-02-24 15:02:35,683 [ 177905]   WARN - #c.i.o.a.e.ActionUtil - Can not find action by id CompileDirty
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+
+(process:10712): Gtk-WARNING **: 18:35:55.061: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(java:10712): dbind-WARNING **: 18:35:55.137: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+2023-02-24 18:35:57,315 [   2643]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:35:57,320 [   2648]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:35:57,320 [   2648]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:35:57,321 [   2649]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:35:57,346 [   2674]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/vcs-github, version=223.8617.48, package=org.jetbrains.plugins.github, isBundled=true)
+2023-02-24 18:35:57,351 [   2679]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/space, version=223.8617.48, package=com.intellij.space.vcs, isBundled=true)
+2023-02-24 18:35:57,353 [   2681]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/python-ce, version=223.8617.48, package=null, isBundled=true)
+2023-02-24 18:35:57,354 [   2682]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/python-ce, version=223.8617.48, package=null, isBundled=true)
+2023-02-24 18:35:57,474 [   2802]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 18:35:57,504 [   2832]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 18:35:57,538 [   2866]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 18:35:59,023 [   4351]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 47:DefaultDispatcher-worker-31 | RdCoroutineHost overridden 
+2023-02-24 18:36:00,692 [   6020]   WARN - #c.i.o.a.i.ActionUpdater - 384 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-02-24 18:36:03,312 [   8640]   WARN - #c.i.o.v.i.l.NativeFileWatcherImpl - Watcher terminated with exit code 130
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+
+(process:11291): Gtk-WARNING **: 18:36:11.134: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(java:11291): dbind-WARNING **: 18:36:11.226: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+2023-02-24 18:36:13,660 [   2908]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:36:13,675 [   2923]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:36:13,675 [   2923]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:36:13,676 [   2924]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/lib, version=223.8617.48, package=com.intellij.feedback, isBundled=true)
+2023-02-24 18:36:13,703 [   2951]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/vcs-github, version=223.8617.48, package=org.jetbrains.plugins.github, isBundled=true)
+2023-02-24 18:36:13,718 [   2966]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/space, version=223.8617.48, package=com.intellij.space.vcs, isBundled=true)
+2023-02-24 18:36:13,720 [   2968]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/python-ce, version=223.8617.48, package=null, isBundled=true)
+2023-02-24 18:36:13,721 [   2969]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=~/Applications/pycharm-community-2022.3.2/plugins/python-ce, version=223.8617.48, package=null, isBundled=true)
+2023-02-24 18:36:13,942 [   3190]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 18:36:13,967 [   3215]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 18:36:13,980 [   3228]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-02-24 18:36:15,224 [   4472]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 30:DefaultDispatcher-worker-17 | RdCoroutineHost overridden 
+2023-02-24 18:36:17,209 [   6457]   WARN - #c.i.o.a.i.ActionUpdater - 572 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-02-24 18:36:24,296 [  13544]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - cv2.cv2
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - cv2.qt.plugins.platforms.libqxcb
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.argmap
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.checkpattern
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.constraints
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.expandtype
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.infer
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.maptype
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.plugins.dataclasses
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.report
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.server.astdiff
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.solve
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.stats
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.subtypes
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.suggestions
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.type_visitor
+2023-02-24 18:36:24,299 [  13547]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypy.typetraverser
+2023-02-24 18:36:24,300 [  13548]   WARN - #c.j.p.s.s.PySkeletonRefresher - mypyc.irbuild.ll_builder
+2023-02-24 18:36:29,989 [  19237]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.openapi.projectRoots.Sdk
+kf.xmlgui: Shortcut for action  "" "Show Quick Commands" set with QAction::setShortcut()! Use KActionCollection::setDefaultShortcut(s) instead.
+kf.xmlgui: Shortcut for action  "" "Show SSH Manager" set with QAction::setShortcut()! Use KActionCollection::setDefaultShortcut(s) instead.
+qt.xkb.compose: failed to create compose table
+QObject::disconnect: Unexpected nullptr parameter
+kf.i18n.kuit: "Unknown subcue ':whatsthis,' in UI marker in context {@info:whatsthis, %1 the action's text}."
+org.kde.kdegraphics.gwenview.lib: Unresolved mime type  "image/x-mng"
+org.kde.kdegraphics.gwenview.lib: Unresolved raw mime type  "image/x-samsung-srw"

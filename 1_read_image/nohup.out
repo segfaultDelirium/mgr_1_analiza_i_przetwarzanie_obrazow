@@ -1,0 +1,19 @@
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+kf.i18n.kuit: "Unknown subcue ':whatsthis,' in UI marker in context {@info:whatsthis, %1 the action's text}."
+org.kde.kdegraphics.gwenview.lib: Unresolved mime type  "image/x-mng"
+org.kde.kdegraphics.gwenview.lib: Unresolved raw mime type  "image/x-samsung-srw"
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+QObject::disconnect: Unexpected nullptr parameter
+inotify_add_watch(/0warm_data/.snapshots) failed: (Permission denied)
+QObject::disconnect: Unexpected nullptr parameter
+kf.kio.workers.file: copy() QUrl("file:///0warm_data/pictures/wallpapers/132014.jpg") to QUrl("file:///0warm_data/studia/mgr/1semestr/analiza_i_przetwarzanie_obrazow/code/samples/132014.jpg") mode= 511
+kf.kio.workers.file: the file doesn't have any xattr
+qt.xkb.compose: failed to create compose table
+kf.i18n.kuit: "Unknown subcue ':whatsthis,' in UI marker in context {@info:whatsthis, %1 the action's text}."
+org.kde.kdegraphics.gwenview.lib: Unresolved mime type  "image/x-mng"
+org.kde.kdegraphics.gwenview.lib: Unresolved raw mime type  "image/x-samsung-srw"
+libpng warning: known incorrect sRGB profile
+libpng warning: profile matches sRGB but writing iCCP instead
