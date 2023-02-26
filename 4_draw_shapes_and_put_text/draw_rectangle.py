@@ -30,7 +30,7 @@ blank = np.zeros((500, 500, 3), dtype="uint8")
 cv2.rectangle(
     blank, (0, 0), (blank.shape[1] // 2, blank.shape[0] // 2), (255, 0, 0), thickness=-1
 )
-cv2.imshow("long rectangle", blank)
+cv2.imshow("square", blank)
 
 
 cv2.waitKey(0)
